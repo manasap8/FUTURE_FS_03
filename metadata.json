@@ -1,0 +1,6 @@
+{
+  "name": "IronForge Fitness",
+  "description": "Premium, modern high-performance gym and fitness center website featuring training programs, elite coaches, membership plans, interactive photo gallery, and trial pass booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
